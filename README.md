@@ -42,6 +42,6 @@ Dev.to: https://dev.to/keyfive5
 
 Twitter: https://twitter.com/keyfive5
 
-LinkedIn: your‑linkedin‑url
+LinkedIn: [Linkedin](https://www.linkedin.com/in/mz-cs/)
 
 “Looking for paid DB pentests or cloud‑infra security engagements? Let’s chat!”
