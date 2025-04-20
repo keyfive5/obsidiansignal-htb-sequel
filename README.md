@@ -37,7 +37,8 @@ SHOW TABLES;
 SELECT * FROM config;
 Flag: 7b4bec00d1a39e3dd4e021ec3d915da8
 
-Connect
+# Connect
+
 Dev.to: https://dev.to/keyfive5
 
 Twitter: https://twitter.com/keyfive5
